@@ -1,0 +1,98 @@
+body{
+    font-family: "Comic Sans MS", "cursive", sans-serif;
+    background-color: aquamarine;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.cc-nb-main-container {
+    font-family: "Comic Sans MS", "cursive", sans-serif;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    border-radius: 0;
+    transform: none;
+    z-index: 999999;
+    background-color: #006666;
+}
+
+
+.modal-header, .modal-footer{
+    background-color: #006666;
+    color: #ffffff;
+}
+
+.modal-body{
+    background-color: #009999;
+    color: #ffffff;
+}
+.btn-dark{
+    background-color: #003366;
+    color: #ffffff;
+    border-color: #ffffff
+}
+.btn-dark:hover{
+    background-color: #001a33;
+    color: #ffffff;
+    border-color: #ffffff
+}
+.btn-secondary{
+    background-color:#008181;
+    color: #ffffff;
+    border-color: #ffffff
+}
+.btn-secondary:hover{
+    background-color: #0cafaf;
+    color: #000000;
+    border-color: #ffffff
+}
+.btn-light{
+    background-color: #0cafaf;
+    color: #ffffff;
+    border-color: #ffffff
+}
+.btn-light:hover{
+    background-color: #009999;
+    color: #000000;
+    border-color: #ffffff
+}
+nav{
+    background-color: #006666;
+}
+.dropdown-menu{
+    background-color: #009999;
+}
+
+header, #actions{
+    margin-top: 10px;
+}
+input{
+    background-color: #006666 !important;
+    color: #ffffff !important;  
+}
+#fotoindex {
+    width: 100px;
+}
+
+th {
+    background-color: #006666  !important;
+    color: #ffffff !important;
+}
+
+td {
+    background-color: #006666  !important;
+    color: #ffffff !important;
+}
+
+.scroll{
+    overflow: auto;
+}
+
+.dropdown-item:hover{
+    background-color: #006666;
+    color: #ffffff;
+}
